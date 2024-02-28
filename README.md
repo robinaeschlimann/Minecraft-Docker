@@ -1,5 +1,5 @@
 # Docker Minecraft Server
-This is a simple Minecraft server. You can download the image on ghcr.io/robinaeschlimann/docker-mc-server:latest.
+This is a simple Minecraft server. You can download the image on kaegi6/docker-minecraft-server:latest.
 
 ## Initial installation
 Here is a small instruction to install the image and run it in a container.
@@ -13,12 +13,12 @@ After the installation of Docker you can pull the image as follows:
 1. Run the terminal (Search for "Terminal" on Windows)
 2. Execute this script: 
 ```shell
-docker pull ghcr.io/robinaeschlimann/docker-mc-server:latest
+docker pull kaegi6/docker-minecraft-server:latest
 ```
 ### Startup the container
 1. Startup Docker Desktop
 2. Go to the tab "Images"
-3. Click "Run" on the image called "ghcr.io/robinaeschlimann/docker-mc-server"
+3. Click "Run" on the image called "kaegi6/docker-minecraft-server:latest"
 4. Then click on "Optional settings"
 5. Optional: Enter a name for the container
 6. Enter the port 25565
